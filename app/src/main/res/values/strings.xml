@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sport Coach Pro</string>
+    <string name="nav_dashboard">Accueil</string>
+    <string name="nav_training">Séances</string>
+    <string name="nav_exercises">Exercices</string>
+    <string name="nav_nutrition">Nutrition</string>
+    <string name="nav_progress">Progrès</string>
+    <string name="live_coach_title">Mode Coach En Direct</string>
+    <string name="ai_assistant_title">Assistant Intelligent</string>
+    <string name="ai_firebase_notice">Mode aperçu IA : connectez Firebase (AI Logic) pour activer Gemini en direct.</string>
+    <string name="export_title">Exporter le document</string>
+    <string name="minor_nutrition_guard">Sécurité Mineur / Cas médical : régimes restrictifs (Keto, Low Carb, Jeûne, PSMF) strictement désactivés.</string>
+</resources>

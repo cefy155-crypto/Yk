@@ -1,0 +1,6 @@
+{
+  "name": "Sport Coach Pro",
+  "description": "Plateforme complète de coaching sportif, musculation, nutrition, planification et suivi des pratiquants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
